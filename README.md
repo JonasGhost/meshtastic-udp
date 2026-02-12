@@ -87,6 +87,10 @@ Only use on networks you own or have permission to monitor. Captured data may co
 
 GNU General Public License v3.0
 
+## Authors
+- @ssnofall
+- @mml
+
 ## Credits
 
 - [Meshtastic Project](https://meshtastic.org/) - Open-source mesh networking platform
